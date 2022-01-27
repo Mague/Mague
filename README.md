@@ -68,7 +68,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mague&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mague&layout=compact&langs_count=20&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mague&layout=compact&langs_count=20&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Mague GitHub stats](https://github-readme-stats.vercel.app/api/?username=Mague&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
