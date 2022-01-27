@@ -72,5 +72,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Mague GitHub stats](https://github-readme-stats.vercel.app/api/?username=Mague&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Mague GitHub stats](https://github-readme-stats.vercel.app/api?username=Mague&count_private=true)
-
