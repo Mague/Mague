@@ -72,5 +72,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mague&layout=compact&langs_count=20&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Mague GitHub stats](https://github-readme-stats.vercel.app/api/?username=Mague&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Mague wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mague)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
