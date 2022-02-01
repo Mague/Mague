@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 
 ### 👨‍💻: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Venezuela.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope:I am working as a Software Engineer and contributing to the frontend and backend to build web and mobile applications. My current favorite technology is Flutter for the frontend and golang and node.js for the backend.
 
 - :seedling: I’m currently learning Rust.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my spare time, I look for new technologies to learn, hone the skills I already have, and read technology articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mague-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enmanuel-david-molina/)
 <div>
