@@ -55,8 +55,10 @@ UTC-4 (Venezuela) — compatible with Spain and Europe.
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mague&count_private=true&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mague&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mague&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mague&layout=compact&langs_count=10&count_private=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mague&layout=compact&langs_count=20&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Mague GitHub stats](https://github-readme-stats.vercel.app/api/?username=Mague&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mague&show_icons=true&theme=radical&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
